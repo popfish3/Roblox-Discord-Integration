@@ -1,6 +1,6 @@
 # ROBLOX WEBHOOK INTERIGATION
 
-Due to the fact that cloudfare has banned ROBLOX webhooks from ROBLOX. We have to use a proxy server.
+CloudFare has banned discord webhooks from being sent from ROBLOX. 
 
 Note: It still works in studio.
 
