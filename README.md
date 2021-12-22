@@ -19,6 +19,13 @@ Yes thats why we use a proxy server.
 # What hosting app do we use?
 Slack .
 
+# What is Slack?
+```
+Slack is a proprietary business communication platform developed by American software company 
+Slack Technologies and now owned by Salesforce. Slack offers many IRC-style features, including persistent chat rooms organized by topic,
+private groups, and direct messaging.
+```
+
 # Module Code
 ```
 local HTTP = game:GetService("HttpService")
