@@ -58,7 +58,7 @@ wait(5)
 
 BOTModule:SendMessage("Hello world!")
 ```
-
+Goes into server storage
 Thank you for using this product from Developer Tech.
 We do not have a tutorial on how to do this so here is a online tutorial: https://www.youtube.com/watch?v=r396DVbSyW8
 
